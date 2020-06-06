@@ -1,0 +1,3 @@
+py3-aeneas
+docopt
+pydub==0.24.0
